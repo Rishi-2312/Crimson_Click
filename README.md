@@ -23,7 +23,8 @@ Here's the pcb of my macropad. 4 keys are on the top and the 3 keys at the botto
 ## Case and Plate
 I used a sandwich-style case for this build, which stacks the top and bottom parts together. This design makes the board very strong.
 
-<img width="1366" height="768" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/10869e36-310c-452e-b28b-1a60e5016f23" />
+
+<img width="1366" height="768" alt="Crimson_case" src="https://github.com/user-attachments/assets/caf93cdb-3c9d-472f-b46e-8ac541a26cb4" />
 
 ## Firmware Overview
 This macropad uses a QMK firmware for everything. It consists of the keyboard.json, keymap.c and readme.md files. The firmware is configured according to the hardware of the macropad.
