@@ -1,0 +1,42 @@
+{
+    "keyboard_name": "crimson_click",
+    "manufacturer": "Rishi",
+    "maintainer": "Rishi_2312",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0001",
+        "device_version": "0.0.1"
+    },
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "encoder": true
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP29", "GP28", "GP27", "GP26", "GP6", "GP7", "GP1"]
+        ]
+    },
+    "encoder": {
+        "rotary": [
+            { "pin_a": "GP0", "pin_b": "GP3" }
+        ]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 1, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 1},
+                {"matrix": [0, 2], "x": 2, "y": 0},
+                {"matrix": [0, 3], "x": 2, "y": 1},
+                {"matrix": [0, 4], "x": 3, "y": 0},
+                {"matrix": [0, 5], "x": 3, "y": 1},
+                {"matrix": [0, 6], "x": 0, "y": 0}
+            ]
+        }
+    }
+}
