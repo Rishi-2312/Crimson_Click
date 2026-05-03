@@ -1,6 +1,7 @@
  # Crimson_Click
 The Crimson Click is a custom, high-performance 6-key macropad featuring an integrated rotary encoder. It is powered by the Seeed Studio XIAO RP2040, a compact and powerful microcontroller that provides fast response times. It consists of the Cherry MX switches and the EC11 encoder. Built on the RP2040 architecture, ensuring plenty of memory for complex macros, layers. The keys are protected by the DSA Keycaps. 
-<img width="1366" height="768" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/a68b8bda-1547-419c-8458-8a1b51273352" />
+<img width="1366" height="768" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/399b0c12-e953-48d6-92b1-ba2422434944" />
+
 
 # Features
 - Seeed Studio XIAO RP2040
@@ -11,7 +12,8 @@ The Crimson Click is a custom, high-performance 6-key macropad featuring an inte
 # CAD MODEL:
 Everything (the case and the plate) fits together using 4 M3 Bolts.
 Crimson-click has 2 separate pieces which are connected by these bolts. The keys are covered by the DSA keycaps.
-<img width="1366" height="768" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/0400bad0-f1e9-468f-b8d2-ec2ea0eb7630" />
+<img width="1366" height="768" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/62b8de7b-d1f7-4a98-b6c0-2af7132cad76" />
+
 Made in Fusion 360.
 # PCB
 Here's my PCB. It was made in KiCad.
